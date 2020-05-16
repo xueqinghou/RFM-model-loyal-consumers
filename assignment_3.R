@@ -1,11 +1,4 @@
-# # ===================================================
-# GBA464: RFM analysis on CDNOW data
-# Author: Yufeng Huang
-# Description: Lab on functions and loops
-# Data: CDNOW customer data (this time full data)
-# Source: provided by Professor Bruce Hardie on
-#   http://www.brucehardie.com/datasets/CDNOW_sample.zip
-# ===================================================
+
 
 # ====== CLEAR EVERYTHING ======
 rm(list = ls())
